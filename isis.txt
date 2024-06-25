@@ -1,0 +1,5 @@
+Hello my name is Isis.
+
+I learned that github is a developer platform that allows developers to create 
+and share their code with others. It also allows other developers to help edit code
+and help each other out.
