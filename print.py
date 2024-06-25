@@ -1,2 +1,3 @@
-for 'hello my name is Isis, I'm in tiger team red.' in range 10 
-    hello my name is Isis, I'm in tiger team red.
+
+for i in range(10):
+    print("Hello world")
